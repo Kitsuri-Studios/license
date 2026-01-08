@@ -1,0 +1,599 @@
+# ATTRIBUTION AND SOURCE CONTINUITY LICENSE
+## Version 1.0, 2026
+
+Copyright © 2026 Kitsuri Studios  
+https://kitsuri.dev
+
+Permission is hereby granted to any person to copy and distribute verbatim copies of this license document without modification.
+
+---
+
+## PREAMBLE
+
+The Attribution and Source Continuity License (ASCL) is a strong copyleft license designed for software and other technical works, ensuring perpetual freedom, transparency, and proper attribution.
+
+### Purpose and Philosophy
+
+Many software licenses permit the creation of proprietary derivatives or allow original authors to be obscured or forgotten. In contrast, this License ensures that:
+
+1. **Freedom is preserved**: Software remains publicly available and freely modifiable
+2. **Source code remains accessible**: Complete source code must accompany all distributions
+3. **Attribution is maintained**: Original authors receive clear, visible, and permanent credit
+4. **Derivatives remain free**: All modifications and adaptations remain under the same terms
+
+### Modern Development Practices
+
+This License explicitly addresses contemporary software development methods, including:
+
+- Code refactoring and restructuring
+- Reimplementation in different programming languages
+- Translation between technology stacks
+- Use of artificial intelligence and automated code generation tools
+- Machine learning-assisted development
+
+The License treats works created through these methods as derivative works when substantial similarity to the original exists, regardless of the method used to create them.
+
+### Governing Principles
+
+This License protects both:
+- The **freedom of downstream users** to use, study, modify, and redistribute the work
+- The **integrity and reputation** of original authors through mandatory attribution
+
+All interpretations of this License shall favor these core principles.
+
+---
+
+## TERMS AND CONDITIONS
+
+### SECTION 1: DEFINITIONS
+
+For purposes of this License, the following terms have the meanings specified:
+
+**1.1 "This License"** refers to Version 2.0 of the Attribution and Source Continuity License, including its preamble and all sections herein.
+
+**1.2 "Copyright"** means copyright rights and all similar rights that apply to software and technical works under applicable law, including but not limited to rights protecting semiconductor masks, database structures, and compilations.
+
+**1.3 "The Software"** or **"Covered Work"** means any copyrightable work licensed under this License, including:
+   - (a) The original, unmodified work
+   - (b) Any Derivative Work as defined in Section 1.7
+   - (c) Any portion thereof that constitutes copyrightable expression
+
+**1.4 "Copyright Holder"** means the individual, individuals, or legal entity that owns copyright in the Software and has applied this License to it. Where multiple copyright holders exist, all such parties are collectively the Copyright Holder for purposes of this License.
+
+**1.5 "You"** or **"Licensee"** means any individual or legal entity exercising rights granted under this License.
+
+**1.6 "Source Code"** means the preferred form of the work for making modifications to it, including:
+   - (a) Human-readable code in the original programming language
+   - (b) Associated interface definition files
+   - (c) Scripts and configuration files necessary to compile, build, install, and run the work
+   - (d) Complete build and installation instructions
+   - (e) Any additional materials necessary to modify and rebuild the work
+
+**1.7 "Object Code"** means any non-source form of a work, including but not limited to compiled bytecode, machine code, minified code, obfuscated code, or any other form not meeting the definition of Source Code.
+
+**1.8 "Derivative Work"** means any work that:
+   - (a) Is based upon, incorporates, or adapts the Software in whole or in part; or
+   - (b) Reuses, refactors, or translates the Software; or
+   - (c) Reimplements the Software using different methods, languages, or technologies; or
+   - (d) Exhibits substantial similarity to the Software in logic, structure, sequence, organization, algorithms, data flow, control flow, or observable behavior; or
+   - (e) Was created with substantial reference to, or assistance from, the Software or its Source Code
+
+Substantial similarity may be established through expert analysis and may exist regardless of:
+   - The programming language used
+   - The method of creation (manual, automated, or AI-assisted)
+   - The presence or absence of literal code copying
+   - Changes in variable names, function names, or code structure
+   - The addition of new features or functionality
+
+**1.9 "Distribution"** or **"Distribute"** means any act of providing or making available the Software or a Derivative Work to any third party, including but not limited to:
+   - (a) Providing copies in physical or electronic form
+   - (b) Making available for download over a network
+   - (c) Providing access through a hosted service
+   - (d) Including in a product or service offered to others
+   - (e) Contributing to a publicly accessible repository
+
+**1.10 "Publicly Available"** means accessible to the general public without restriction, including:
+   - (a) Hosted on a publicly accessible network location
+   - (b) Downloadable without payment, registration, or authentication
+   - (c) Accessible without acceptance of additional terms or restrictions
+   - (d) Available in a format that does not require proprietary tools to access
+
+### SECTION 2: SCOPE OF LICENSE
+
+**2.1 Application**  
+This License applies to the Software and to any Derivative Work created from it, in whole or in part.
+
+**2.2 Prohibited Activities**  
+Any use, modification, or distribution not expressly authorized by this License is prohibited and constitutes copyright infringement under applicable law.
+
+**2.3 Survival of Terms**  
+The obligations under this License survive any conveyance of the Software and bind all recipients regardless of how they obtained the work.
+
+### SECTION 3: GRANT OF RIGHTS
+
+**3.1 Conditional License Grant**  
+Subject to Your compliance with all terms and conditions of this License, the Copyright Holder grants You a worldwide, royalty-free, non-exclusive license to:
+   - (a) Use and run the Software
+   - (b) Study and analyze the Software
+   - (c) Copy and reproduce the Software
+   - (d) Modify the Software and create Derivative Works
+   - (e) Distribute the Software and Derivative Works
+
+**3.2 Conditions of License**  
+All rights granted under Section 3.1 are expressly conditioned upon:
+   - (a) Continued compliance with all terms of this License
+   - (b) Proper attribution as required by Section 5
+   - (c) Source code availability as required by Section 6
+   - (d) License continuity as required by Section 7
+
+**3.3 No Sublicensing**  
+You may not sublicense the Software. Each recipient of the Software automatically receives a license directly from the Copyright Holder under the terms of this License.
+
+**3.4 Irrevocability**  
+Rights granted under this License are irrevocable so long as You comply with all terms herein. Termination occurs only as specified in Section 12.
+
+### SECTION 4: ACCEPTANCE AND AGREEMENT
+
+**4.1 Acceptance Not Required for Possession**  
+You are not required to accept this License in order to receive, possess, or execute an unmodified copy of the Software.
+
+**4.2 Acceptance Required for Modification or Distribution**  
+By modifying or distributing the Software or any Derivative Work, You indicate Your acceptance of this License and agreement to be bound by all its terms and conditions.
+
+**4.3 Knowledge and Intent**  
+Acceptance under Section 4.2 occurs regardless of whether You have read this License, and regardless of Your subjective intent or understanding.
+
+### SECTION 5: MANDATORY ATTRIBUTION
+
+**5.1 Preservation of Attribution**  
+You must preserve complete and accurate attribution to the Copyright Holder in all copies and Derivative Works. Attribution must include:
+   - (a) The name of the original author or project
+   - (b) A copyright notice in the form "Copyright © [year] [Copyright Holder]"
+   - (c) A notice that the work is licensed under this License
+   - (d) A URL or other reference to where this License can be obtained
+
+**5.2 Visibility Requirements**  
+Attribution must be:
+   - (a) Clear and conspicuous
+   - (b) In a location where users would reasonably expect to find it
+   - (c) In a form that is not obscured, hidden, minimized, or removed by default settings
+   - (d) Reasonably permanent and not subject to automated removal
+
+**5.3 Interactive Works**  
+For works with interactive user interfaces, attribution must be displayed in at least one of the following locations:
+   - (a) An "About" or "Credits" screen accessible from the main interface
+   - (b) A settings or preferences panel
+   - (c) A splash screen or loading screen shown during normal operation
+   - (d) Prominent primary documentation or help files
+
+**5.4 Non-Interactive Works**  
+For works without interactive interfaces (such as libraries, frameworks, or command-line tools), attribution must appear in:
+   - (a) The primary documentation
+   - (b) The Source Code in a prominent location
+   - (c) Any "README" or similar introductory file
+
+**5.5 Proportional Attribution**  
+If Your Derivative Work incorporates multiple components with different copyright holders, attribution need not give the Software disproportionate prominence, but must provide equal prominence to all components of similar significance.
+
+**5.6 Prohibited Attribution Practices**  
+You may not:
+   - (a) Remove, alter, or obscure existing attribution
+   - (b) Present attribution in a manner that suggests it is unimportant or optional
+   - (c) Require user action to display attribution that should be visible by default
+   - (d) Use technical measures to hide or obscure attribution
+
+### SECTION 6: SOURCE CODE AVAILABILITY
+
+**6.1 Mandatory Source Provision**  
+Whenever You Distribute the Software or any Derivative Work, You must provide the complete corresponding Source Code publicly and without restriction.
+
+**6.2 "Complete Corresponding Source Code"**  
+The complete corresponding Source Code includes all of the following:
+   - (a) All Source Code necessary to compile, build, install, and run the work
+   - (b) All scripts, makefiles, configuration files, and build instructions
+   - (c) All interface definitions and API specifications
+   - (d) All documentation necessary for a skilled developer to understand and modify the work
+   - (e) Any libraries or dependencies that are not Standard System Libraries (as defined in Section 6.6)
+
+**6.3 Accessibility Requirements**  
+Source Code must be:
+   - (a) Publicly Available as defined in Section 1.10
+   - (b) Provided in a format suitable for modification
+   - (c) Accessible through a stable and reasonably permanent mechanism
+   - (d) Available without charge beyond the reasonable cost of distribution
+   - (e) Provided in a commonly used, non-proprietary format
+
+**6.4 Acceptable Distribution Methods**  
+Source Code may be made available through:
+   - (a) A publicly accessible version control repository
+   - (b) A public file hosting service
+   - (c) A network download location
+   - (d) Physical media accompanying Object Code distribution
+   - (e) Any other method that satisfies the requirements of Section 6.3
+
+**6.5 Duration of Availability**  
+Source Code must remain available for at least as long as You continue to Distribute the corresponding Object Code, and for a minimum of three (3) years thereafter.
+
+**6.6 Standard System Libraries Exception**  
+You need not include Standard System Libraries in the corresponding Source Code. A "Standard System Library" means:
+   - (a) A component included in the normal form of packaging a major essential component of the operating system; and
+   - (b) Which serves only to enable use of the work with that component; and
+   - (c) Which is itself available in source code form under a license approved by the Free Software Foundation or the Open Source Initiative
+
+**6.7 Prohibition on Source Restrictions**  
+You may not impose any of the following restrictions on access to Source Code:
+   - (a) Payment requirements or fees (except reasonable distribution costs)
+   - (b) Registration, authentication, or account creation requirements
+   - (c) Acceptance of additional terms or license agreements
+   - (d) Time-limited or temporary access
+   - (e) Geographic or jurisdictional restrictions
+   - (f) Technical protection measures or encryption (except as necessary for secure transmission)
+
+### SECTION 7: COPYLEFT AND LICENSE CONTINUITY
+
+**7.1 License Propagation**  
+You may Distribute a Derivative Work only if You license the entire Derivative Work under this License, with no additional restrictions.
+
+**7.2 No Alternative Licensing**  
+You may not offer or Distribute any Derivative Work under any license other than this License, including dual-licensing arrangements.
+
+**7.3 Notice Requirements**  
+Every Derivative Work must include:
+   - (a) A prominent notice stating that it is licensed under this License
+   - (b) The complete text of this License, or a URL where it can be readily accessed
+   - (c) A notice indicating what modifications have been made and when
+
+**7.4 No Proprietary Derivatives**  
+You may not create, distribute, or authorize the distribution of proprietary, closed-source, or source-restricted versions of the Software or any Derivative Work.
+
+### SECTION 8: CONVEYING OBJECT CODE
+
+**8.1 Permitted Only With Source**  
+You may Distribute Object Code only if You also make the complete corresponding Source Code Publicly Available as required by Section 6.
+
+**8.2 Contemporaneous Availability**  
+Source Code must be made available no later than the time You first Distribute the corresponding Object Code.
+
+**8.3 Notice in Object Code**  
+Object Code distributions must include a prominent notice specifying where the corresponding Source Code can be obtained.
+
+### SECTION 9: PROHIBITION ON ADDITIONAL RESTRICTIONS
+
+**9.1 No Further Restrictions**  
+You may not impose any legal, technical, contractual, or other restrictions that prevent recipients from exercising the rights granted under this License.
+
+**9.2 Prohibited Restrictions Include**  
+Without limiting the generality of Section 9.1, You may not:
+   - (a) Apply digital rights management (DRM) or technological protection measures
+   - (b) Require acceptance of End User License Agreements (EULAs) that restrict License rights
+   - (c) Impose usage restrictions, user limits, or time limitations
+   - (d) Require payment for exercise of License rights
+   - (e) Impose geographic, jurisdictional, or demographic restrictions
+   - (f) Require registration, authentication, or license keys
+   - (g) Apply patent claims that would restrict rights granted herein
+
+**9.3 Permissible Terms**  
+This Section does not prohibit:
+   - (a) Offering optional commercial support, warranty, or service agreements
+   - (b) Requesting voluntary donations
+   - (c) Imposing reasonable technical limitations inherent in the distribution medium
+
+### SECTION 10: ARTIFICIAL INTELLIGENCE AND AUTOMATED GENERATION
+
+**10.1 AI-Generated Works as Derivatives**  
+Any work produced through the use of artificial intelligence, machine learning systems, large language models, automated code generation tools, or similar technologies shall be considered a Derivative Work if:
+   - (a) The Software was included in the training data used to create the AI system; or
+   - (b) The Software was provided as input, context, or reference material to the AI system; or
+   - (c) The resulting work exhibits substantial similarity to the Software as defined in Section 1.8
+
+**10.2 Burden of Proof**  
+Where an AI-generated work exhibits substantial similarity to the Software, the burden of proving independent creation rests with the party claiming the work is not derivative.
+
+**10.3 No Exemption for Automated Creation**  
+The method of creation does not exempt a work from this License. Specifically:
+   - (a) Use of AI or automated tools does not constitute independent creation
+   - (b) Claims of "emergent" generation do not exempt substantially similar works
+   - (c) Clean-room development claims require clear evidence of process isolation
+
+**10.4 Training Data Considerations**  
+If You train an AI system using the Software as training data, any output from that system that embodies or reproduces the Software's logic, structure, or behavior is a Derivative Work subject to this License.
+
+### SECTION 11: AGGREGATION WITH INDEPENDENT WORKS
+
+**11.1 Permitted Aggregation**  
+Inclusion of the Covered Work in an aggregate compilation with other separate and independent works does not cause this License to apply to those other works, provided that:
+   - (a) The other works are genuinely independent and not extensions of the Covered Work
+   - (b) The works are not combined to form a single larger program
+   - (c) The aggregate is not used to circumvent any requirement of this License
+
+**11.2 Definition of Aggregate**  
+An "aggregate" means a collection of works in or on a volume of storage or distribution medium where the individual works remain separate and independent.
+
+**11.3 Examples of Aggregation**  
+Permissible aggregation includes:
+   - (a) Including the Software on a compilation DVD with other software
+   - (b) Distributing the Software alongside other tools in a software collection
+   - (c) Packaging the Software with documentation or tutorials
+
+**11.4 Examples of Non-Aggregation**  
+The following are NOT mere aggregation and require the combined work to be licensed under this License:
+   - (a) Linking the Software with other code to form a single executable
+   - (b) Creating plugins or extensions that depend on the Software's internal structures
+   - (c) Embedding the Software within a larger application
+
+### SECTION 12: MISREPRESENTATION AND FALSE ATTRIBUTION
+
+**12.1 Prohibition on Misrepresentation**  
+You may not:
+   - (a) Claim authorship of the original Software
+   - (b) Remove, alter, or falsify existing copyright notices or attribution
+   - (c) Misrepresent the origin or history of the Software
+   - (d) Imply endorsement, sponsorship, or affiliation with the Copyright Holder without express written permission
+
+**12.2 Modification Notices**  
+If You modify the Software, You must:
+   - (a) Include a prominent notice stating that You have modified the work
+   - (b) Identify Yourself as the author of the modifications (not the original work)
+   - (c) Include the date of modification
+   - (d) Not present Your modifications in a way that suggests they are part of the original work
+
+**12.3 Trademark Rights**  
+This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Copyright Holder, except as required for reasonable and customary attribution.
+
+### SECTION 13: TERMINATION
+
+**13.1 Automatic Termination**  
+Your rights under this License terminate automatically and immediately upon any violation of any term or condition of this License.
+
+**13.2 No Cure Period**  
+Unlike some licenses, this License provides no cure period. Termination is immediate upon violation.
+
+**13.3 Effect of Termination**  
+Upon termination:
+   - (a) You must immediately cease all use, modification, and distribution of the Software and all Derivative Works
+   - (b) You must destroy all copies in Your possession or control
+   - (c) You may not exercise any rights that were granted under this License
+   - (d) Your obligations under Sections 5, 6, and 7 survive for any distributions made prior to termination
+
+**13.4 Downstream Recipients**  
+Termination of Your rights does not affect the rights of parties who received copies of the Software from You while Your license was in good standing, provided they remain in compliance.
+
+**13.5 No Reinstatement**  
+Once terminated, Your rights under this License cannot be reinstated except by express written permission from the Copyright Holder.
+
+### SECTION 14: CONDITIONAL WITHDRAWAL OF PERMISSION
+
+**14.1 Right of Withdrawal**  
+In addition to the termination rights in Section 13, the Copyright Holder reserves the right, to the maximum extent permitted by applicable law, to withdraw permission for continued use of the Software within a specific Derivative Work where:
+   - (a) Continued use causes demonstrable reputational harm to the Copyright Holder; or
+   - (b) Persistent and material misrepresentation has occurred despite notice; or
+   - (c) The Derivative Work is used to intentionally circumvent the requirements of this License; or
+   - (d) The Derivative Work is used in a manner that brings the Software or Copyright Holder into disrepute
+
+**14.2 Procedure for Withdrawal**  
+Withdrawal under this Section requires:
+   - (a) Written notice to the infringing party specifying the grounds for withdrawal
+   - (b) A reasonable opportunity to cure (minimum 30 days) except where immediate harm is occurring
+   - (c) Public notice if the Derivative Work was publicly distributed
+
+**14.3 Effect of Withdrawal**  
+Upon valid withdrawal:
+   - (a) The affected party must cease distribution of the specified Derivative Work
+   - (b) Copies lawfully obtained by third parties prior to withdrawal remain valid
+   - (c) The affected party may create new Derivative Works if they cure the violation
+   - (d) Withdrawal applies prospectively, not retroactively
+
+**14.4 Limitation on Withdrawal**  
+This Section shall not be construed to allow arbitrary or discriminatory withdrawal, but only to prevent material harm or persistent bad faith violations.
+
+### SECTION 15: INTERPRETATION OF DERIVATIVE WORKS
+
+**15.1 Presumption of Derivation**  
+Where ambiguity exists as to whether a work constitutes a Derivative Work, such ambiguity shall be resolved in favor of finding derivation where substantial similarity exists in:
+   - (a) Overall program structure, sequence, and organization
+   - (b) Algorithms, logic, or computational methods
+   - (c) Data structures and their relationships
+   - (d) Interface design and user interaction patterns
+   - (e) Output behavior and functionality
+
+**15.2 Insufficient to Avoid Derivative Status**  
+The following actions, alone or in combination, are insufficient to avoid classification as a Derivative Work where substantial similarity exists:
+   - (a) Renaming variables, functions, classes, or modules
+   - (b) Changing code formatting, indentation, or comment style
+   - (c) Reordering code sections or refactoring internal structure
+   - (d) Translating to a different programming language
+   - (e) Converting between programming paradigms (e.g., procedural to object-oriented)
+   - (f) Reimplementing using different libraries or frameworks
+   - (g) Adding new features or functionality alongside similar existing functionality
+
+**15.3 Expert Analysis**  
+Substantial similarity may be established through expert analysis using recognized methods of software comparison, including but not limited to:
+   - (a) Static analysis of source code
+   - (b) Dynamic analysis of runtime behavior
+   - (c) Comparison of algorithms and data flows
+   - (d) Examination of architectural patterns
+
+**15.4 Independent Creation Defense**  
+To successfully claim independent creation, one must demonstrate:
+   - (a) No access to the Software or its Source Code during development
+   - (b) Documentation of the independent development process
+   - (c) Significant differences in implementation approach and structure
+   - (d) An alternative explanation for any similarities
+
+### SECTION 16: INTERPRETATION OF ATTRIBUTION AND SOURCE AVAILABILITY
+
+**16.1 Effective Attribution**  
+This License shall be interpreted to require attribution that is:
+   - (a) Actually visible and accessible to users under normal circumstances
+   - (b) Reasonably prominent relative to the size and nature of the work
+   - (c) Not hidden behind technical barriers, optional settings, or obscure navigation
+   - (d) Presented in a manner that clearly identifies the original Copyright Holder
+
+**16.2 Effective Source Availability**  
+This License shall be interpreted to require Source Code availability that is:
+   - (a) Genuinely accessible to the general public without barriers
+   - (b) In a complete and buildable form
+   - (c) Without restrictions that effectively prevent modification
+   - (d) Maintained with reasonable availability and reliability
+
+**16.3 Anti-Circumvention Principle**  
+Interpretations that permit formal compliance while undermining the substantive purpose of attribution or source availability requirements shall be disfavored and are contrary to the intent of this License.
+
+**16.4 Good Faith Compliance**  
+All obligations under this License require good faith compliance in both letter and spirit. Technical compliance that defeats the purpose of a requirement is not sufficient.
+
+### SECTION 17: INTERPRETATION OF TERMINATION AND WITHDRAWAL
+
+**17.1 Immediate Effect**  
+Termination under Section 13 occurs automatically upon violation without requirement of notice, declaration, or legal proceeding.
+
+**17.2 Retroactive Effect**  
+Termination has immediate retroactive effect:
+   - (a) Any distributions made after the violation occurred are unauthorized
+   - (b) The violator may be liable for copyright infringement for post-violation activities
+   - (c) Prior lawful distributions remain lawful
+
+**17.3 Prospective Withdrawal**  
+Withdrawal under Section 14 operates prospectively from the date of notice:
+   - (a) It does not create retroactive liability for past distributions
+   - (b) It may require cessation of ongoing distribution where legally possible
+   - (c) It does not affect the validity of copies already in circulation
+
+**17.4 Evidence of Violation**  
+A Copyright Holder seeking to enforce termination or withdrawal bears the burden of proving violation by a preponderance of the evidence.
+
+### SECTION 18: NO WARRANTY
+
+**18.1 Disclaimer of Warranties**  
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+   - (a) WARRANTIES OF MERCHANTABILITY
+   - (b) WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE
+   - (c) WARRANTIES OF NON-INFRINGEMENT
+   - (d) WARRANTIES OF TITLE
+   - (e) WARRANTIES ARISING FROM COURSE OF DEALING OR USAGE OF TRADE
+
+**18.2 Assumption of Risk**  
+THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE IS WITH YOU. Should the Software prove defective, You assume the cost of all necessary servicing, repair, or correction.
+
+**18.3 No Guarantees**  
+No Copyright Holder or contributor warrants that:
+   - (a) The Software will meet Your requirements
+   - (b) The Software will operate without interruption or errors
+   - (c) Defects will be corrected
+   - (d) The Software is free from security vulnerabilities
+
+**18.4 Third-Party Components**  
+This warranty disclaimer applies to the Software as a whole and to each component, including any third-party components incorporated into the Software.
+
+### SECTION 19: LIMITATION OF LIABILITY
+
+**19.1 Exclusion of Damages**  
+IN NO EVENT SHALL ANY COPYRIGHT HOLDER OR CONTRIBUTOR BE LIABLE TO YOU FOR ANY DAMAGES WHATSOEVER, INCLUDING WITHOUT LIMITATION:
+   - (a) DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES
+   - (b) LOSS OF PROFITS, REVENUE, OR BUSINESS OPPORTUNITIES
+   - (c) LOSS OF DATA OR DATA CORRUPTION
+   - (d) LOSS OF USE OF SOFTWARE OR EQUIPMENT
+   - (e) BUSINESS INTERRUPTION
+   - (f) COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES
+
+**19.2 Knowledge of Possibility**  
+This limitation applies EVEN IF the Copyright Holder or contributor has been advised of the possibility of such damages.
+
+**19.3 Basis of Bargain**  
+This limitation of liability is an essential element of the agreement between You and the Copyright Holder. The Software would not be provided without such limitations.
+
+**19.4 Maximum Liability**  
+To the maximum extent permitted by applicable law, the total cumulative liability of any Copyright Holder or contributor shall not exceed the amount You paid for the Software (which is typically zero for software licensed at no charge).
+
+### SECTION 20: INTERPRETATION OF WARRANTY AND LIABILITY PROVISIONS
+
+**20.1 Maximum Effect Under Law**  
+If the disclaimer of warranty or limitation of liability provided in Sections 18 and 19 cannot be given full legal effect under applicable law, reviewing courts shall apply the local law that most closely approximates an absolute waiver of all civil liability in connection with the Software.
+
+**20.2 Partial Enforceability**  
+If any portion of the warranty disclaimer or liability limitation is held unenforceable, the remainder shall continue in full force and effect to the maximum extent permitted by law.
+
+**20.3 Consumer Protection Laws**  
+Nothing in this License shall limit Your rights under applicable consumer protection laws, product liability laws, or other mandatory legal protections that cannot be waived by agreement.
+
+### SECTION 21: PATENTS
+
+**21.1 Patent License Grant**  
+Subject to the terms of this License, each Copyright Holder and contributor hereby grants You a perpetual, worldwide, non-exclusive, royalty-free patent license under any patent claims licensable by such party that are necessarily infringed by their contribution(s) alone or by combination of their contribution(s) with the Software.
+
+**21.2 Patent Retaliation**  
+If You initiate patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Software or a contribution incorporated within the Software constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Software shall terminate as of the date such litigation is filed.
+
+**21.3 No Additional Patent Restrictions**  
+You may not impose patent restrictions on the Software or Derivative Works that would prevent others from exercising the rights granted under this License.
+
+### SECTION 22: COMPATIBILITY WITH OTHER LICENSES
+
+**22.1 Generally Incompatible**  
+This License is generally incompatible with licenses that:
+   - (a) Permit proprietary derivatives
+   - (b) Allow removal of attribution
+   - (c) Do not require source code availability
+   - (d) Impose additional restrictions on distribution
+
+**22.2 GPL Compatibility**  
+Works licensed under this License may NOT be combined with works licensed under the GNU General Public License (GPL) versions 2 or 3, as the GPL prohibits additional restrictions and this License imposes additional attribution requirements beyond those in the GPL.
+
+**22.3 Aggregation Exception**  
+This Section does not prohibit mere aggregation as defined in Section 11.
+
+### SECTION 23: SEVERABILITY
+
+**23.1 Severability of Provisions**  
+If any provision of this License is held invalid, unenforceable, or contrary to law by a court of competent jurisdiction, such provision shall be modified to the minimum extent necessary to make it valid and enforceable while preserving its intent.
+
+**23.2 Continuation of Remaining Provisions**  
+The invalidity or unenforceability of any provision shall not affect the validity or enforceability of any other provision, and all remaining provisions shall remain in full force and effect.
+
+**23.3 Preservation of License Purpose**  
+If any provision is severed or modified, the License shall be interpreted to preserve, to the maximum extent possible:
+   - (a) The copyleft nature of the License
+   - (b) The attribution requirements
+   - (c) The source code availability requirements
+
+### SECTION 24: GOVERNING LAW AND JURISDICTION
+
+**24.1 Choice of Law**  
+This License shall be governed by and construed in accordance with the laws of the jurisdiction in which the Copyright Holder is legally established, without regard to its conflict of law provisions.
+
+**24.2 Jurisdiction**  
+Any legal action or proceeding arising under this License shall be brought exclusively in the courts of competent jurisdiction in the Copyright Holder's jurisdiction, and all parties consent to the jurisdiction of such courts.
+
+**24.3 International Application**  
+Where the Software is used in jurisdictions other than that of the Copyright Holder, this License shall be interpreted in a manner consistent with its purpose while respecting local mandatory law.
+
+### SECTION 25: ENTIRE AGREEMENT AND MODIFICATIONS
+
+**25.1 Entire Agreement**  
+This License constitutes the entire agreement between You and the Copyright Holder concerning the Software and supersedes all prior or contemporaneous oral or written agreements.
+
+**25.2 Modification of License Terms**  
+No modification, amendment, or waiver of any provision of this License shall be effective unless in writing and signed by the Copyright Holder.
+
+**25.3 No Waiver by Conduct**  
+The failure of the Copyright Holder to enforce any provision of this License shall not constitute a waiver of that provision or any other provision.
+
+**25.4 Future Versions**  
+The Copyright Holder may publish revised versions of this License. You may use the Software under the terms of the version under which You received it, or any later version published by Kitsuri Studios.
+
+### SECTION 26: NOTICES AND COMMUNICATIONS
+
+**26.1 Required Notices**  
+All legally required notices under this License shall be in writing and shall be delivered by a means reasonably calculated to provide actual notice.
+
+**26.2 Notice to Copyright Holder**  
+Notices to the Copyright Holder may be sent to the address or contact information specified in the Software's documentation or source code.
+
+**26.3 Public Notices**  
+Where this License requires public notice, such notice shall be provided through a means accessible to affected parties and the general public.
+
+---
+
+## END OF TERMS AND CONDITIONS
+
+---
